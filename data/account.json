@@ -1,4 +1,5 @@
 {
   "phone": "your_phone_number",
-  "password": "your_password"
+  "password": "your_password",
+  "course": "your_course_website_url"
 }
